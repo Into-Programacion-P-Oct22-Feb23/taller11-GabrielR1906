@@ -15,7 +15,6 @@ public class Ejemplo1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // 
         int[] informacion = {10, 20, 30, 40, 50, 100};
         
         // int suma = obtenerSumaDatos(10);
